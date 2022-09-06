@@ -2,7 +2,7 @@
 
 ## HI KOBE
 
-(So this is my quick presentation page)[https://jilanin.github.io/Smals-Presentation/].
+(https://jilanin.github.io/Smals-Presentation/)[So this is my quick presentation page].
 
 Hope you enjoy it !
 
